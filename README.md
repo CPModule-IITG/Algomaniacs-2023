@@ -1,6 +1,6 @@
 # Algomanics
 ## Lecture 1 (Probablity) 
-  * Discussion on basics of Probablity (Random variables, recurrance formulation, conditonal expected etc.) 
+  * Discussion on basics of Probablity (Random variables, recurrance formulation, conditonal expectation etc.) 
  
   * [Notes]()
 
