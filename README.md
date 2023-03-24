@@ -44,7 +44,7 @@
   * Discussion on Segment and Fenwick tree, lazy propagation and problems. 
   * Lecturer : Pradeep Singh
   
-  * [Notes]()
+  * [Notes](https://drive.google.com/file/d/1xeuHDN42SIRYu-a5MkkDkL0RGCRqp-V_/view?usp=sharing)
   
   * Pset :
     - [P1]()
