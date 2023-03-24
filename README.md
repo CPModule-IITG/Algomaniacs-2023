@@ -1,5 +1,5 @@
 # Algomanics
- Note : We will be updating the repo with the entire content in couple of days.
+ *Note : We will be updating the repo with the entire content in couple of days.
 ## Lecture 1 (Probablity) 
   * Discussion on basics of Probablity (Random variables, recurrance formulation, conditonal expectation etc.) 
  
