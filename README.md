@@ -34,7 +34,7 @@
   * Discussion on Basics of DFS and BFS, Trees, SSSP Algoriths (0-1 BFS, Dijkstra's Algorithm, DFS SSSP for Trees), Binary Lifting and LCA.
   * Lecturer : Ahaan Malhotra
  
- * [Notes]()
+ * [Notes](https://drive.google.com/file/d/1-IubEYHjrmEyGusmNdyUR0YyiZIzmb4t/view?usp=sharing)
   
   * Pset :
     - [P1]()
