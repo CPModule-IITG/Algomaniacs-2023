@@ -2,6 +2,7 @@
  * Note : We will be updating the repo with the entire content in couple of days.
 ## Lecture 1 (Probablity) 
   * Discussion on basics of Probablity (Random variables, recurrance formulation, conditonal expectation etc.) 
+  * Lecturer : Dhruv Somani
  
   * [Notes](https://drive.google.com/file/d/1pfhYp7SGav0qi3jmY09oFgOzEkWo5zxZ/view?usp=sharing)
 
@@ -11,8 +12,9 @@
 
 ## Lecture 2 (Dynamic Programming) 
   * Discussion on Basics of DP, recurrance formulation, order of loops, bitmasking and submasking dp, SOS dp*.
- 
-  * [Notes](https://drive.google.com/file/d/1EGQHB6IuVYH-r6SouwZEiDE-DcKkSmE_/view?usp=sharing)
+  * Lecturer : Akshaj Padmakar
+  
+  * [Notes](https://drive.google.com/file/d/1236MpkIiqw5tflk_0iEAdFoSgQiG_tb_/view?usp=sharing)
   
   * Pset :
     - [P1](https://atcoder.jp/contests/dp/tasks/dp_a)
@@ -29,17 +31,19 @@
 
 
 ## Lecture 3 (Graphs and Trees) 
-  * Discussion on 
+  * Discussion on Basics of DFS and BFS, Trees, SSSP Algoriths (0-1 BFS, Dijkstra's Algorithm, DFS SSSP for Trees), Binary Lifting and LCA.
+  * Lecturer : Ahaan Malhotra
  
-  * [Notes]()
+ * [Notes]()
   
   * Pset :
     - [P1]()
     
 
 ## Lecture 4 (Segment and Fenwick tree) 
-  * Discussion on 
- 
+  * Discussion on Segment and Fenwick tree, lazy propagation and problems. 
+  * Lecturer : Pradeep Singh
+  
   * [Notes]()
   
   * Pset :
@@ -50,21 +54,10 @@
 
 ## Lecture 5 (FFT) 
   * Discussion on 
+  * Lecturer : Aman Bucha
  
   * [Notes]()
   
   * Pset :
     - [P1]()
-    
-    
-    
-    
-## Lecture 3 (Graphs and Trees) 
-  * Discussion on 
- 
-  * [Notes]()
-  
-  * Pset :
-    - [P1]()
-    
     
