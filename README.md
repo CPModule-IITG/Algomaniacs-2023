@@ -57,14 +57,14 @@
     
     
 
-## Lecture 5 (FFT) 
+## Lecture 5 (Number Theory and FFT) 
   * Discussion on 
   * Lecturer : Aman Bucha
  
   * [Notes](https://drive.google.com/file/d/1canVnjWRKRRBVemrDnBZgMNRhqfnaY5u/view?usp=sharing)
   
   * Pset :
-    - [P1]()
+    - [P1 (This was a fresh problem)]()
     - [P2](https://codeforces.com/problemset/problem/1593/D2)
     - [P3](https://olympiads.hbcse.tifr.res.in/olympiads/wp-content/uploads/2017/10/sol-crmo-20171.pdf)
     - [P4](https://codeforces.com/problemset/problem/1712/E1)
