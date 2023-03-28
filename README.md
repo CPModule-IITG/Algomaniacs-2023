@@ -61,8 +61,13 @@
   * Discussion on 
   * Lecturer : Aman Bucha
  
-  * [Notes]()
+  * [Notes](https://drive.google.com/file/d/1canVnjWRKRRBVemrDnBZgMNRhqfnaY5u/view?usp=sharing)
   
   * Pset :
     - [P1]()
+    - [P2](https://codeforces.com/problemset/problem/1593/D2)
+    - [P3](https://olympiads.hbcse.tifr.res.in/olympiads/wp-content/uploads/2017/10/sol-crmo-20171.pdf)
+    - [P4](https://codeforces.com/problemset/problem/1712/E1)
+    - [P5](https://codeforces.com/problemset/gymProblem/103119/A)
+    - [P6](https://codeforces.com/problemset/problem/632/E)
     
