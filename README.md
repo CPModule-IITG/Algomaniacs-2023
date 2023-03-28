@@ -39,7 +39,7 @@
   * Pset :
     - [P1](https://www.codechef.com/problems/THOUSES?tab=statement)
     - [P2](https://www.codechef.com/problems/VPATH?tab=statement)
-    - [P3]()https://www.codechef.com/problems/CHEFARC
+    - [P3](https://www.codechef.com/problems/CHEFARC)
     - [P4](https://www.codechef.com/problems/TRAVELLING)
     - [P5](https://cses.fi/problemset/task/1195/)
     - [P6](https://cses.fi/problemset/task/1679/)
