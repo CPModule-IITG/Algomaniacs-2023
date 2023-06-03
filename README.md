@@ -16,6 +16,8 @@
   
   * [Notes](https://drive.google.com/file/d/1236MpkIiqw5tflk_0iEAdFoSgQiG_tb_/view?usp=sharing)
   
+  * [Lecture Video](https://youtu.be/ZOIs2VRC4kg)
+
   * Pset :
     - [P1](https://atcoder.jp/contests/dp/tasks/dp_a)
     - [P2](https://atcoder.jp/contests/dp/tasks/dp_b)
@@ -34,8 +36,10 @@
   * Discussion on Basics of DFS and BFS, Trees, SSSP Algoriths (0-1 BFS, Dijkstra's Algorithm, DFS SSSP for Trees), Binary Lifting and LCA.
   * Lecturer : Ahaan Malhotra
  
- * [Notes](https://drive.google.com/file/d/1-IubEYHjrmEyGusmNdyUR0YyiZIzmb4t/view?usp=sharing)
+  * [Notes](https://drive.google.com/file/d/1-IubEYHjrmEyGusmNdyUR0YyiZIzmb4t/view?usp=sharing)
   
+  * [Lecture Video](https://youtu.be/f5RpU5NV3cw)
+
   * Pset :
     - [P1](https://www.codechef.com/problems/THOUSES?tab=statement)
     - [P2](https://www.codechef.com/problems/VPATH?tab=statement)
@@ -63,6 +67,8 @@
  
   * [Notes](https://drive.google.com/file/d/1canVnjWRKRRBVemrDnBZgMNRhqfnaY5u/view?usp=sharing)
   
+  * [Lecture Video](https://youtu.be/tQTpSfyTzbs)
+
   * Pset :
     - P1 (This was a fresh problem)
     - [P2](https://codeforces.com/problemset/problem/1593/D2)
